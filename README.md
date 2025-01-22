@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there, this is JinWu👋
+
+I am a PhD student in Artificial Intelligence, dedicated to researching the role of AI in education.
 
 <!--
 **AwakenPurity/AwakenPurity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
